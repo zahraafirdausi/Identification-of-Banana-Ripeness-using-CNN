@@ -1,5 +1,4 @@
-# Identification-of-Banana-Ripeness-using-CNN
-# Banana-Ripness-Classification-Using-CNN
+# Identification of Banana Ripness Using CNN
 
 ## Identifikasi Kematangan Buah Pisang menggunakan Pendekatan Convolution Neural Network
 
