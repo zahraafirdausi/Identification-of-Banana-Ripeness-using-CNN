@@ -1,6 +1,8 @@
 # Identification of Banana Ripness Using CNN
-
 ## Identifikasi Kematangan Buah Pisang menggunakan Pendekatan Convolution Neural Network
+
+Membuat Model untuk mengidentifikasi kematangan pada buah pisang dengan menggunakan pendekatan convolution neural network.
+
 
 Kelompok 7 Kelas P1:
 - Zahra Aulia Firdausi (G64180030)
